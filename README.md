@@ -12,10 +12,10 @@ Screen Pictures iOS
 -------------------
 
 <p align='center'>
-  <img src='https://s3-us-west-1.amazonaws.com/portfoliostevem/poll-screen-0.png' width='250'/>
-  <img src='https://s3-us-west-1.amazonaws.com/portfoliostevem/poll-screen-1.png' width='250'/>
-  <img src='https://s3-us-west-1.amazonaws.com/portfoliostevem/poll-screen-2.png' width='250'/>
-  <img src='https://s3-us-west-1.amazonaws.com/portfoliostevem/poll-screen-3.png' width='250'/>
+  <img src='https://s3-us-west-1.amazonaws.com/portfoliostevem/pollSystem-screen-0.png' width='750'/>
+  <img src='https://s3-us-west-1.amazonaws.com/portfoliostevem/pollSystem-screen-1.png' width='750'/>
+  <img src='https://s3-us-west-1.amazonaws.com/portfoliostevem/pollSystem-screen-2.png' width='750'/>
+  <img src='https://s3-us-west-1.amazonaws.com/portfoliostevem/pollSystem-screen-3.png' width='750'/>
 </p>
 
 
