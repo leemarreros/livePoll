@@ -2,7 +2,7 @@
 
 Description
 -----------
-This desktop app aims to measure the preferences of Peruvian presidential elections.     
+This desktop app aims to measure the voters preference of Peruvian presidential elections.
 
 Tech stack
 ----------
